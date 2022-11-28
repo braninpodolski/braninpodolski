@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @braninpodolski
-- 👀 I’m interested in webscraping and automation using python.
-- 🌱 I’m currently expanding upon my basic knowledge of python.
-- 💞️ I’m looking to collaborate on a project that involves automation.
+- 👀 I’m interested in physics computation.
+- 🌱 I’m currently studying Java in college.
 - 📫 You can reach me by sending an email to marshallbranin@gmail.com
 
 <!---
