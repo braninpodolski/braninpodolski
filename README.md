@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @braninpodolski
-- 👀 I’m interested in physics computation.
 - 🌱 I’m currently studying Java in college.
 - 📫 You can reach me by sending an email to marshallbranin@gmail.com
 
