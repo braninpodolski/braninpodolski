@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @braninpodolski
-- 🌱 I’m currently studying Java in college.
-- 📫 You can reach me by sending an email to marshallbranin@gmail.com
+- 🌱 I’m a second-year computer science student at Rutgers University
+- 📫 You can reach me by sending an email to branin.podolski@rutgers.com
 
 <!---
 braninpodolski/braninpodolski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
