@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @braninpodolski
-- 🌱 I’m a fourth-year computer science student at Rutgers University
+- 🌱 I’m a software engineer at ASRC Federal
 - 📫 You can reach me by sending an email to branin.podolski@rutgers.com
 
 <!---
